@@ -1,0 +1,19 @@
+{
+  "type": "mariadb",
+  "username": "root",
+  "password": "some_pass",
+  "host": "localhost",
+  "port": 3306,
+  "database": "tst1",
+  "synchronize": false,
+  "logging": true,
+  "migrations": [
+    "dist/database/migrations/*.js"
+  ],
+  "entities": [
+    "src/**/*.entity{.ts,.js}"
+  ],
+  "cli": {
+    "migrationsDir": "src/database/migrations"
+  }
+}

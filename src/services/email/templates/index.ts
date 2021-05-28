@@ -1,0 +1,11 @@
+export { Welcome } from './Welcome';
+export { Login } from './Login';
+export { VerifyEmail } from './VerifyEmail';
+export { customSoftware } from './customSoftware';
+export { orderSoftware } from './orderSoftware';
+export { RecoveryPassword } from './RecoveryPassword';
+export { orderSoftwareToClient } from './orderSoftwareToclient';
+export { sendOffer } from './sendOffer';
+export { paymentInstructions } from './PaymentInstructions';
+export { invoiceOrderCredit } from './inviceOrderCredits';
+export { test } from './test';
