@@ -348,7 +348,7 @@ export function test(data) {
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
 <div style="color:#000000;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;letter-spacing:0px;line-height:1.5;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
 <div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.5; color: #000000; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; letter-spacing: 0px; mso-line-height-alt: 18px;">
-<p style="font-size: 12px; line-height: 1.5; word-break: break-word; text-align: left; mso-line-height-alt: 18px; letter-spacing: normal; margin: 0;">support@tvsgroupinternational.com</p>
+<p style="font-size: 12px; line-height: 1.5; word-break: break-word; text-align: left; mso-line-height-alt: 18px; letter-spacing: normal; margin: 0;">support@testurl.com</p>
 </div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->

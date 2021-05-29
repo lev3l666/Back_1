@@ -446,7 +446,7 @@ export function Login(data) {
              <tr style="background: white">
               <td class="email-masthead">
 <!--                <a href="#" class="f-fallback email-masthead_name" style="color: #C70909; font-size: 20px "> TVS GROUP INTERNATIONAL</a>-->
-                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="TVSGROUPINTERNATIONAL">
+                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="testurl">
               </td>
             </tr>
             <!-- Email Body -->
@@ -472,8 +472,8 @@ export function Login(data) {
                           </tr>
                         </table>
                         <p>For security reasons we send you this e-mail. If it was not you who logged in,
-                          <a href="http://tvsgroupinternational.com/admin/close-sessions/${data.token}" target="_blank">Log out of all devices</a>
-                          or contact us <a href="https://tvsgroupinternational.com/admin/login" target="_blank">support team</a> for help.
+                          <a href="http://testurl.com/admin/close-sessions/${data.token}" target="_blank">Log out of all devices</a>
+                          or contact us <a href="https://testurl.com/admin/login" target="_blank">support team</a> for help.
                         </p>
 <!--                        <p>The TVS GROUP INTERNATIONAL Team</p>-->
                       </div>

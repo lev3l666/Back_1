@@ -456,7 +456,7 @@ export function orderSoftwareToClient(data) {
             <tr style="background: white">
               <td class="email-masthead">
 <!--                <a href="#" class="f-fallback email-masthead_name" style="color: #C70909; font-size: 20px "> TVS GROUP INTERNATIONAL</a>-->
-                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="TVSGROUPINTERNATIONAL">
+                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="testurl">
               </td>
             </tr>
             <tr>
@@ -498,7 +498,7 @@ export function orderSoftwareToClient(data) {
                             </td>
                           </tr>
                         </table>
-                        <p>If you have any questions about this notification, simply reply to this email or reach out to our <a href='https://tvsgroupinternational.com' target='_blank'>support team</a> for help.</p>
+                        <p>If you have any questions about this notification, simply reply to this email or reach out to our <a href='https://testurl.com' target='_blank'>support team</a> for help.</p>
 <!--                        <p>The TVS GROUP INTERNATIONAL Team</p>-->
                       </div>
                     </td>

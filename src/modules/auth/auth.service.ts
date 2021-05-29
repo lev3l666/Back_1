@@ -329,7 +329,7 @@ export class AuthService {
       subject: 'CREDITS OFFER',
       html: 'test',
       data: {
-        url: `${process.env.MODE == 'dev' ? 'http://localhost:8080/admin/login?to=put-order&offer=' : 'https://tvsgroupinternational.com/admin/login?to=put-order&offer='}${url}`,
+        url: `${process.env.MODE == 'dev' ? 'http://localhost:8080/admin/login?to=put-order&offer=' : 'https://testurl.com/admin/login?to=put-order&offer='}${url}`,
         credits: body.credits,
         price: body.price,
         discount,

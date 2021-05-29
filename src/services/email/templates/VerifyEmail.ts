@@ -446,7 +446,7 @@ export function VerifyEmail(data) {
             <tr style="background: white">
               <td class="email-masthead">
 <!--                <a href="#" class="f-fallback email-masthead_name" style="color: #C70909; font-size: 20px "> TVS GROUP INTERNATIONAL</a>-->
-                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="TVSGROUPINTERNATIONAL">
+                    <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="testurl">
               </td>
             </tr>
             <!-- Email Body -->
@@ -467,14 +467,14 @@ Recent projects for customers around the world! Every project is unique, but the
                               <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                 <tr>
                                   <td align="center">
-                                    <a href="https://tvsgroupinternational.com/admin/validate-email?id=${data.id}&hash=${data.hash}" class="f-fallback button button--green" style="color: white !important;" target="_blank">VERIFY EMAIL</a>
+                                    <a href="https://testurl.com/admin/validate-email?id=${data.id}&hash=${data.hash}" class="f-fallback button button--green" style="color: white !important;" target="_blank">VERIFY EMAIL</a>
                                   </td>
                                 </tr>
                               </table>
                             </td>
                           </tr>
                         </table>
-                        <p>If you have any questions about this TVS GROUP INTERNATIONAL, contact us <a href="https://tvsgroupinternational.com/" target="_blank">support team</a> for help.</p>
+                        <p>If you have any questions about this TVS GROUP INTERNATIONAL, contact us <a href="https://testurl.com/" target="_blank">support team</a> for help.</p>
 <!--                        <p>The TVS GROUP INTERNATIONAL Team</p>-->
                       </div>
                     </td>

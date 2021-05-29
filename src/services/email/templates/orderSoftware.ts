@@ -113,7 +113,7 @@ export function orderSoftware(data) {
                 <table>
                   <tr>
                     <td class="title">
-                     <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="TVSGROUPINTERNATIONAL">
+                     <img style="color: #C70909; font-size: 20px; width: 15vw;" src="https://tvs-admin.s3-us-west-2.amazonaws.com/assets/logopng.png" alt="testurl">
                     </td>
 
                     <td style="width: 50%;">
